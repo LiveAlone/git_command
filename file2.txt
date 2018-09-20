@@ -6,3 +6,4 @@
 --decorate-refs-exclude=<pattern>
 
     If no --decorate-refs is given, pretend as if all refs were included. For each candidate, do not use it for decoration if it matches any patterns given to --decorate-refs-exclude or if it doesn’t match any of the patterns given to --decorate-refs.
+matches any patterns given to --decorate-refs-exclude or if it doesn’t match any of the patterns given to --decoramatches any patterns given to --decorate-refs-exclude or if it doesn’t match any of the patterns given to --decoramatches any patterns given to --decorate-refs-exclude or if it doesn’t match any of the patterns given to --decoramatches any patterns given to --decorate-refs-exclude or if it doesn’t match any of the patterns given to --decora
